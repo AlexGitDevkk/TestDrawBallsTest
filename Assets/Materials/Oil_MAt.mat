@@ -11,7 +11,8 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 506ffc75e496ea34796d364b55dc97b1,
     type: 3}
   m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - _ENUM_A
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -202,6 +203,7 @@ Material:
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _ENUM: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
@@ -216,9 +218,15 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
+    - _WAVE: 0.56
     - _Wave_High: -0.49
+    - _Wave_Hight: 1
     - _Wave_Power: 0.1
     - _Wave_Power_1: 1.64
+    - _Wave_Speed: 0.68
+    - _Wave_Strength: 0.22
+    - _Waves: 0.39
+    - _Waves_Hight1: 6.9
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
@@ -235,7 +243,7 @@ Material:
         a: 1}
     - Color_fad02c706d364e40b68284065a32e9c3: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_05b2682eb56d435c92efb3945514867e: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_1: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - Vector2_1: {r: 1, g: 0.02, b: 0, a: 0}
     - Vector2_2: {r: 0.01, g: 0.01, b: 0, a: 0}
     - Vector2_2bc2d2893ae743339cff0c109e80e0c8: {r: 0.01, g: 0.01, b: 0, a: 0}
     - Vector2_354cd49ae73740cbb33b35a926c511ee: {r: 0, g: 0, b: 0, a: 0}
@@ -247,6 +255,9 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _Wave_Hight: {r: 1, g: 0.1, b: 1, a: 0}
+    - _Wave_Positions: {r: 11, g: 11, b: 11, a: 0}
+    - _Wave_Vector: {r: 8.56, g: 1.57, b: 5.81, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4408143386754088610
 MonoBehaviour:
