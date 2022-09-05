@@ -111,7 +111,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_8783f887e78d4a61b9702d1b4e216c9f_Texture_1:
-        m_Texture: {fileID: 2800000, guid: f53e6162436d93d428a8b87628cfcbea, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_955c3c80829044c2a468d992c160333d_Texture_1:
@@ -123,7 +123,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_cffcbe03107f40918f19686384a53e97_Texture_1:
-        m_Texture: {fileID: 2800000, guid: 75de1e9bd0aa1524a9060b4651c1530e, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_f77a947c09944876b05fd89a87deb23b_Texture_1:
@@ -167,7 +167,7 @@ Material:
     - Vector1_1: 0.05
     - Vector1_1582b92dd6734063932061620ef4a9fc: 100
     - Vector1_15a6afd0ef2040c5934b5a82fa78667d: 1
-    - Vector1_25a90cc5028247b98c0b0eabed3b2650: 3.24
+    - Vector1_25a90cc5028247b98c0b0eabed3b2650: 5.66
     - Vector1_44fb07ed1adf4aebad36341341abd090: 55
     - Vector1_513565d477754144889cf6c6a8f438c8: 1
     - Vector1_625f315e68d149249a3b6e57dd31d43e: 2.35
@@ -189,8 +189,8 @@ Material:
     - Vector1_c36b85e39fd249be8b9fc8237b0c1b7b: 1
     - Vector1_cb03e9f0160f40f0a4c24805b5ad16b9: 1
     - Vector1_ceb40f6442b743769a9c4d28b6071433: 1
-    - Vector1_cf24996097934cba8a7f5262d00e5ba4: -0.46
-    - Vector1_cf24996097934cba8a7f5262d00e5ba4_1: 0.48
+    - Vector1_cf24996097934cba8a7f5262d00e5ba4: -1.01
+    - Vector1_cf24996097934cba8a7f5262d00e5ba4_1: 0.34
     - Vector1_d6439723cff84b489273d843707e2b5c: 0.46
     - Vector1_e8bf159d0b1f492dae420488117bc53f: 1
     - _AlphaClip: 0
@@ -219,12 +219,15 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _WAVE: 0.56
+    - _Wave: 0
+    - _WaveSpeed: 0.21
     - _Wave_High: -0.49
     - _Wave_Hight: 1
     - _Wave_Power: 0.1
     - _Wave_Power_1: 1.64
     - _Wave_Speed: 0.68
     - _Wave_Strength: 0.22
+    - _Wave_Vertex_Speed: 1
     - _Waves: 0.39
     - _Waves_Hight1: 6.9
     - _WorkflowMode: 1
@@ -244,7 +247,7 @@ Material:
     - Color_fad02c706d364e40b68284065a32e9c3: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_05b2682eb56d435c92efb3945514867e: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_1: {r: 1, g: 0.02, b: 0, a: 0}
-    - Vector2_2: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - Vector2_2: {r: 0.11, g: 0.11, b: 0, a: 0}
     - Vector2_2bc2d2893ae743339cff0c109e80e0c8: {r: 0.01, g: 0.01, b: 0, a: 0}
     - Vector2_354cd49ae73740cbb33b35a926c511ee: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_923f2d0bd75a4b6c8efb1a373c3e3c57: {r: 0, g: 0, b: 0, a: 0}

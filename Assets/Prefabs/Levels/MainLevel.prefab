@@ -334,7 +334,7 @@ PrefabInstance:
     - target: {fileID: 3009283965102722175, guid: 470e12b38438b4f86a04bdd76c727d60,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.04
+      value: 0.207
       objectReference: {fileID: 0}
     - target: {fileID: 3009283965102722175, guid: 470e12b38438b4f86a04bdd76c727d60,
         type: 3}
@@ -396,11 +396,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5129067195129406376}
     m_Modifications:
-    - target: {fileID: 165518560159115086, guid: fdf4025f031b0454fa36517b4de504d5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.1
-      objectReference: {fileID: 0}
     - target: {fileID: 2995887585233527121, guid: fdf4025f031b0454fa36517b4de504d5,
         type: 3}
       propertyPath: m_RootOrder
@@ -461,23 +456,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: SceneEnviroment
       objectReference: {fileID: 0}
-    - target: {fileID: 6758941812976114751, guid: fdf4025f031b0454fa36517b4de504d5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.10908712
-      objectReference: {fileID: 0}
-    - target: {fileID: 6758941812976114751, guid: fdf4025f031b0454fa36517b4de504d5,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.17631
-      objectReference: {fileID: 0}
-    - target: {fileID: 7997980009474525578, guid: fdf4025f031b0454fa36517b4de504d5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 33daf79b27f251a438477c7c20155078, type: 2}
-    m_RemovedComponents:
-    - {fileID: 8121070928457912884, guid: fdf4025f031b0454fa36517b4de504d5, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdf4025f031b0454fa36517b4de504d5, type: 3}
 --- !u!4 &8993084998353209899 stripped
 Transform:
